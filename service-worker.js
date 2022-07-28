@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Starlink/precache-manifest.29604b6c00add894d5fe9e62235dc6c2.js"
+  "/Starlink/precache-manifest.72b505ce9fc079f6546c450e1e02afde.js"
 );
 
 self.addEventListener('message', (event) => {
