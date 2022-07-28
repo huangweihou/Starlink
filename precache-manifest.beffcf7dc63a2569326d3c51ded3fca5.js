@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd6e7b7c9d8c12d31edb6d6afb9ebcd3",
+    "revision": "7e099141a73c6260427fce498b27662c",
     "url": "/Starlink/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Starlink/static/css/2.48db8b0f.chunk.css"
   },
   {
-    "revision": "a7831677d11f5e0c6a98",
+    "revision": "5473b785a0b61dc935b7",
     "url": "/Starlink/static/css/main.51d82005.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Starlink/static/js/2.32cc139f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7831677d11f5e0c6a98",
-    "url": "/Starlink/static/js/main.38ea7615.chunk.js"
+    "revision": "5473b785a0b61dc935b7",
+    "url": "/Starlink/static/js/main.394728c7.chunk.js"
   },
   {
     "revision": "c6b721d19bbd159feae3",
