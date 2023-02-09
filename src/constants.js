@@ -1,5 +1,7 @@
 export const SAT_BASE_URL = "https://cors-anywhere.herokuapp.com/https://api.n2yo.com/rest/v1/satellite";
 
+// export const SAT_BASE_URL = "https://api.n2yo.com/rest/v1/satellite";
+
 export const SAT_API_KEY = "PFBQS5-54VGVE-JKPNNW-4IAJ";
 
 export const STARLINK_CATEGORY = "52";
